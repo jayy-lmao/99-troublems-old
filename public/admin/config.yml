@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: jayy-lmao/99-troublems
   branch: master
 media_folder: public/images
 public_folder: /images
